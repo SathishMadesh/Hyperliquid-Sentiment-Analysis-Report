@@ -125,16 +125,6 @@ During Greed:
 
 ---
 
-## Files
-
-```
-data/        → datasets
-notebooks/   → analysis
-outputs/     → charts
-```
-
----
-
 ## Author
 
 Sathish M
